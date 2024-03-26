@@ -5,38 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21593912-87ff-4843-bf0d-38de1887bd4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter5/chap5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/5-11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/5-7-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/5-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/5-9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/prac 5-13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/prac 5-15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/prac 5-17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/prac5-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/prac5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/chap5_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/chap4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/chap4_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/images/matplot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/images/matplot.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/images/mine1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/images/mine1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/images/mine2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/images/mine2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/images/mine3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/images/mine3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/images/move_file.avi" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/images/move_file.avi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/images/read_16.tif" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/images/read_16.tif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/images/read_32.tif" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/images/read_32.tif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/images/read_color.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/images/read_color.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/images/read_gray.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/images/read_gray.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/images/result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/images/result.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/images/test.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/images/test.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/images/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/images/test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/images/test2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/images/test2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/images/video_file.avi" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/images/video_file.avi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/images/write_test_16.tif" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/images/write_test_16.tif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/images/write_test_32.tif" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/images/write_test_32.tif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/img/frame_10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/img/frame_10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/img/frame_100.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/img/frame_100.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/img/frame_110.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/img/frame_110.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/img/frame_120.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/img/frame_120.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/img/frame_20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/img/frame_20.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/img/frame_30.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/img/frame_30.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/img/frame_40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/img/frame_40.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/img/frame_50.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/img/frame_50.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/img/frame_60.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/img/frame_60.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/img/frame_70.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/img/frame_70.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/img/frame_80.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/img/frame_80.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/img/frame_90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/img/frame_90.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0311/trackbar.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/trackbar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,17 +36,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.5-7-2.executor": "Run",
+    "Python.5-7.executor": "Run",
+    "Python.5-9.executor": "Run",
     "Python.chap4_1.executor": "Run",
     "Python.chap5_1.executor": "Run",
     "Python.hello.executor": "Run",
+    "Python.prac 5-13.executor": "Run",
+    "Python.prac 5-15.executor": "Run",
+    "Python.prac 5-17.executor": "Run",
+    "Python.prac5-5.executor": "Run",
+    "Python.prac5.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter4" />
       <recent name="$PROJECT_DIR$/0320" />
       <recent name="$PROJECT_DIR$/0311" />
     </key>
