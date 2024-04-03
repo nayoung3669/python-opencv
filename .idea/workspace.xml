@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21593912-87ff-4843-bf0d-38de1887bd4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter4/5-11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/5-7-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/5-7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/5-9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/prac 5-13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/prac 5-15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/prac 5-17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/prac5-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/prac5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/chap5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/prac5_15.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,25 +25,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.5-7-2.executor": "Run",
-    "Python.5-7.executor": "Run",
-    "Python.5-9.executor": "Run",
-    "Python.chap4_1.executor": "Run",
-    "Python.chap5_1.executor": "Run",
-    "Python.hello.executor": "Run",
-    "Python.prac 5-13.executor": "Run",
-    "Python.prac 5-15.executor": "Run",
-    "Python.prac 5-17.executor": "Run",
-    "Python.prac5-5.executor": "Run",
-    "Python.prac5.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.5-7-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5-7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5-9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chap4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chap5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prac 5-13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prac 5-15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prac 5-17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prac5-5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prac5.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/chapter4" />
