@@ -2,8 +2,8 @@ import numpy as np
 import cv2
 
 
-def onMouse(event, x, y, flags, param):
-    global image, title, line_thickness, circle_radius
+def onMouse(event, x, y):
+    global image, title
     if event == cv2.EVENT_LBUTTONDOWN:
         cv2.rectangle(image, (x, y), (x + 30, y + 30), (100, 100, 100), line_thickness)
     elif event == cv2.EVENT_RBUTTONDOWN:
@@ -21,10 +21,10 @@ def onCircleRadiusTrackbarChange(value):
     circle_radius = value
 
 
-image = np.ones((300, 300, 3), np.uint8) * 255
+image = np.ones((300, 300), np.uint8) * 255
 title = "window"
 
-line_thickness = 1
+line_thickness = 2
 circle_radius = 20
 
 cv2.namedWindow(title)

@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21593912-87ff-4843-bf0d-38de1887bd4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter3/prac10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3/prac9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/5-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/5-12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/5-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/img/prac4-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/prac5-14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/images/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/5-11.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/5-11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/5-7-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/5-7-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/5-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/5-9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/prac 5-17.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/prac 5-17.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +39,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1.executor": "Run",
+    "Python.5-10.executor": "Run",
+    "Python.5-12.executor": "Run",
     "Python.5-7-2.executor": "Run",
     "Python.5-7.executor": "Run",
+    "Python.5-8.executor": "Run",
     "Python.5-9.executor": "Run",
+    "Python.7.executor": "Run",
     "Python.chap4_1.executor": "Run",
     "Python.chap5_1.executor": "Run",
     "Python.hello.executor": "Run",
@@ -38,6 +54,8 @@
     "Python.prac 5-15.executor": "Run",
     "Python.prac 5-17.executor": "Run",
     "Python.prac10.executor": "Run",
+    "Python.prac4-6.executor": "Run",
+    "Python.prac5-14.executor": "Run",
     "Python.prac5-5.executor": "Run",
     "Python.prac5.executor": "Run",
     "Python.prac9.executor": "Run",
@@ -49,6 +67,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/chapter6" />
       <recent name="$PROJECT_DIR$/chapter4" />
       <recent name="$PROJECT_DIR$/0320" />
       <recent name="$PROJECT_DIR$/0311" />

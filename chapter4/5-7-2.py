@@ -1,6 +1,7 @@
 import numpy as np
 import cv2
 
+
 def onMouse(event, x, y, flags, param):
     global image, title
     if event == cv2.EVENT_LBUTTONUP:
@@ -8,6 +9,7 @@ def onMouse(event, x, y, flags, param):
     elif event == cv2.EVENT_RBUTTONDOWN:
         cv2.rectangle(image, (x, y), (x + 30, y + 30), (100, 100, 100), 2)
     cv2.imshow(title, image)
+
 
 image = np.ones((300, 300), np.uint8) * 255
 title = "Draw Event"
