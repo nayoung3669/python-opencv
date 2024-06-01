@@ -1,6 +1,6 @@
 import numpy as np, cv2
 
-image = cv2.imread("images/laplacian.jpg", cv2.IMREAD_GRAYSCALE)
+image = cv2.imread("../../chapter7/images/laplacian.jpg", cv2.IMREAD_GRAYSCALE)
 if image is None: raise Exception("영상파일 읽기 오류")
 
 data1 = [	[0,		1,		0],  												# 4 방향 필터

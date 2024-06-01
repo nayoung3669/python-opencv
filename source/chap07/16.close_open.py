@@ -11,7 +11,7 @@ def closing(img, mask):                     # 닫힘 연산
     dst = erode(tmp, mask)
     return dst
 
-image = cv2.imread("images/morph.jpg", cv2.IMREAD_GRAYSCALE)
+image = cv2.imread("../../chapter7/images/morph.jpg", cv2.IMREAD_GRAYSCALE)
 if image is None: raise Exception("영상파일 읽기 오류")
 
 mask = np.array([[0, 1, 0],                 # 마스크 초기화

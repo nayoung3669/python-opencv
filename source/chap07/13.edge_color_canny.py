@@ -8,7 +8,7 @@ def onTrackbar(th):																	# 트랙바 콜백 함수
 	dst = cv2.hconcat([image, color_edge])
 	cv2.imshow("color edge", dst)
 
-image = cv2.imread("images/color_edge.jpg", cv2.IMREAD_COLOR)
+image = cv2.imread("../../chapter7/images/color_edge.jpg", cv2.IMREAD_COLOR)
 if image is None: raise Exception("영상파일 읽기 오류")
 
 th = 50

@@ -14,7 +14,7 @@ def minmax_filter(image, ksize, mode):
             dst[i, j] = cv2.minMaxLoc(mask)[mode]
     return dst
 
-image = cv2.imread("images/min_max.jpg", cv2.IMREAD_GRAYSCALE)
+image = cv2.imread("../../chapter7/images/min_max.jpg", cv2.IMREAD_GRAYSCALE)
 if image is None: raise Exception("영상파일 읽기 오류")
     
 minfilter_img = minmax_filter(image, 3, 0)               	# 3x3 마스크 최솟값 필터링

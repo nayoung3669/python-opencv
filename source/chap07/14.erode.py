@@ -16,7 +16,7 @@ def erode(img, mask=None):
             dst[i, j] = 255 if (cnt == mcnt) else 0            # 출력 화소에 저장
     return dst
 
-image = cv2.imread("images/morph.jpg", cv2.IMREAD_GRAYSCALE)
+image = cv2.imread("../../chapter7/images/morph.jpg", cv2.IMREAD_GRAYSCALE)
 if image is None: raise Exception("영상파일 읽기 오류")
 
 data = [0, 1, 0,                                               # 마스크 선언 및 초기화

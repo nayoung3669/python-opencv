@@ -1,7 +1,7 @@
 import numpy as np, cv2
 from  Common.filters import differential
 
-image = cv2.imread("images/edge.jpg", cv2.IMREAD_GRAYSCALE)
+image = cv2.imread("../../chapter7/images/edge.jpg", cv2.IMREAD_GRAYSCALE)
 if image is None: raise Exception("영상파일 읽기 오류")
     
 data1 = [-1, 0, 1,                  # 수직 마스크

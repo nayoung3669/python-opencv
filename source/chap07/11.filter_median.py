@@ -22,7 +22,7 @@ def salt_pepper_noise(img, n):
         noise[y, x] = 0 if np.random.rand() < 0.5 else 255
     return noise
 
-image = cv2.imread("images/median2.jpg", cv2.IMREAD_GRAYSCALE)
+image = cv2.imread("../../chapter7/images/median2.jpg", cv2.IMREAD_GRAYSCALE)
 if image is None: raise Exception("영상파일 읽기 오류")
     
 noise = salt_pepper_noise(image, 500)

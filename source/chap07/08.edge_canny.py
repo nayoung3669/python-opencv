@@ -46,7 +46,7 @@ def hysteresis_th(max_sobel, low, high):                # 이력 임계값 수�
         for j in range(1, cols - 1):
             if max_sobel[i, j] > high:  trace(max_sobel, i, j, low)  # 추적 시작
 
-image = cv2.imread("images/canny.jpg", cv2.IMREAD_GRAYSCALE)
+image = cv2.imread("../../chapter7/images/canny.jpg", cv2.IMREAD_GRAYSCALE)
 if image is None: raise Exception("영상 파일 읽기 오류")
 
 pos_ck = np.zeros(image.shape[:2], np.uint8)

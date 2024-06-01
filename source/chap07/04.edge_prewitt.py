@@ -14,7 +14,7 @@ def differential(image, data1, data2):
     dst2 = cv2.convertScaleAbs(dst2)
     return dst, dst1, dst2
 
-image = cv2.imread("images/edge.jpg", cv2.IMREAD_GRAYSCALE)
+image = cv2.imread("../../chapter7/images/edge.jpg", cv2.IMREAD_GRAYSCALE)
 if image is None: raise Exception("영상파일 읽기 오류")
 
 data1 = [-1, 0, 1,                         # 프리윗 수직 마스크

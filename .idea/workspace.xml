@@ -5,10 +5,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21593912-87ff-4843-bf0d-38de1887bd4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter5/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/prac6-9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/images/8.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/prac5-14.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/prac5-14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/chap06/12.histogram_equalize.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/chap06/12.histogram_equalize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/01.blurring.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap07/01.blurring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/02.sharpening.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap07/02.sharpening.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/03.edge_roberts.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap07/03.edge_roberts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/04.edge_prewitt.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap07/04.edge_prewitt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/05.edge_sobel.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap07/05.edge_sobel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/06.edge_laplacian.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap07/06.edge_laplacian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/07.edge_DOG.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap07/07.edge_DOG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/08.edge_canny.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap07/08.edge_canny.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/09.filter_minmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap07/09.filter_minmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/10.filter_average.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap07/10.filter_average.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/11.filter_median.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap07/11.filter_median.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/12.filter_gaussian.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap07/12.filter_gaussian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/13.edge_color_canny.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap07/13.edge_color_canny.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/14.erode.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap07/14.erode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/15.dilate.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap07/15.dilate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/16.close_open.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap07/16.close_open.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/cannay_tset.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/cannay_tset.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/canny.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/canny.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/canny_test.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/canny_test.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/canny_test0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/canny_test0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/car_no1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/car_no1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/color_edge.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/color_edge.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/dog.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/dog.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/dog_test.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/dog_test.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/edge.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/edge.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/filter_avg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/filter_avg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/filter_blur.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/filter_blur.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/filter_sharpen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/filter_sharpen.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/laplacian.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/laplacian.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/median.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/median.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/median2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/median2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/min_max.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/min_max.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/morph.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/morph.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/smoothing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/smoothing.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/07.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/09.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chap07/images/test_car/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/images/test_car/20.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,14 +82,20 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2dIGthlauqRb8iqlFWkSiQ5fjiX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.02.sharpening.executor": "Run",
     "Python.1.executor": "Run",
+    "Python.10.executor": "Run",
+    "Python.11.executor": "Run",
+    "Python.14.executor": "Run",
     "Python.5-10.executor": "Run",
     "Python.5-12.executor": "Run",
     "Python.5-7-2.executor": "Run",
@@ -50,6 +116,7 @@
     "Python.prac5-14.executor": "Run",
     "Python.prac5-5.executor": "Run",
     "Python.prac5.executor": "Run",
+    "Python.prac6-9.executor": "Run",
     "Python.prac9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -59,11 +126,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter7" />
       <recent name="$PROJECT_DIR$/chapter5" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/chapter6" />
       <recent name="$PROJECT_DIR$/chapter4" />
-      <recent name="$PROJECT_DIR$/0320" />
     </key>
   </component>
   <component name="SharedIndexes">

@@ -1,6 +1,6 @@
 import numpy as np, cv2
 
-image = cv2.imread("images/dog.jpg", cv2.IMREAD_GRAYSCALE)
+image = cv2.imread("../../chapter7/images/dog.jpg", cv2.IMREAD_GRAYSCALE)
 if image is None: raise Exception("영상파일 읽기 오류")
 
 gaus = cv2.GaussianBlur(image, (9,9), 0, 0)            # 가우시안 마스크 적용

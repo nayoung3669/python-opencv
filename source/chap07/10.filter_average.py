@@ -16,7 +16,7 @@ def average_filter(image, ksize):
                 dst[i, j] = cv2.mean(mask)[0]
     return dst
 
-image = cv2.imread("images/filter_avg.jpg", cv2.IMREAD_GRAYSCALE)
+image = cv2.imread("../../chapter7/images/filter_avg.jpg", cv2.IMREAD_GRAYSCALE)
 if image is None: raise Exception("영상파일 읽기 오류")
 
 avg_img  = average_filter(image, 5)                    # 사용자 정의 평균값 필터 함수
