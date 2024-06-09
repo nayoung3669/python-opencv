@@ -21,7 +21,7 @@ def getAffineMat(center, degree, fx = 1, fy = 1, translate = (0,0)):
     # ret_mat = cen_trans.dot(rot_mat.dot(scale_mat.dot(trans_mat.dot(org_trans))))
     return np.delete(ret_mat, 2, axis=0)            # 행 제거 ret_mat[0:2,:]
 
-image = cv2.imread('images/affine2.jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('../../chapter8/images/affine2.jpg', cv2.IMREAD_GRAYSCALE)
 if image is None: raise Exception("영상 파일 읽기 에러")
 
 size = image.shape[::-1]

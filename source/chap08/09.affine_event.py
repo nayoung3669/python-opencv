@@ -28,7 +28,7 @@ def onMouse(event, x, y, flags, param):
         pts1[check] = (x, y)
         affine(np.copy(image))
 
-image = cv2.imread('images/affine1.jpg')
+image = cv2.imread('../../chapter8/images/affine1.jpg')
 if image is None: raise Exception("영상파일 읽기 에러")
 
 small = np.array((12, 12))

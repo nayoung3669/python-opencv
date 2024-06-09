@@ -28,7 +28,7 @@ def onMouse(event, x, y, flags, param):
         tmp = np.copy(image)                    # 임시 행렬 초기화
         pts = []
 
-image = cv2.imread('images/rotate.jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('../../chapter8/images/rotate.jpg', cv2.IMREAD_GRAYSCALE)
 if image is None: raise Exception("영상 파일을 읽기 에러")
 tmp = np.copy(image)
 pts = []

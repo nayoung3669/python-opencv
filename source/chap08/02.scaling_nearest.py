@@ -12,7 +12,7 @@ def scaling_nearest(img, size):                                # 크기 변경 �
 
     return dst
 
-image = cv2.imread('images/interpolation.jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('../../chapter8/images/interpolation.jpg', cv2.IMREAD_GRAYSCALE)
 if image is None: raise Exception("영상 파일을 읽기 에러")
 
 dst1 = scaling(image, (350, 400))                   # 크기 변경 - 기본

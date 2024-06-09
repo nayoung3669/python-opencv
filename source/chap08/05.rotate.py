@@ -30,7 +30,7 @@ def rotate_pt(img, degree, pt):
                 dst[i, j] = bilinear_value(img, [x, y])           # 화소값 양선형 보간
     return dst
 
-image = cv2.imread('images/rotate.jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('../../chapter8/images/rotate.jpg', cv2.IMREAD_GRAYSCALE)
 if image is None: raise Exception("영상 파일을 읽기 에러")
 
 center = np.divmod(image.shape[::-1], 2)[0]

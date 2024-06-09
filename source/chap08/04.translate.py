@@ -12,7 +12,7 @@ def translate(img, pt):
                 dst[i, j] = img[y, x]
     return dst
 
-image = cv2.imread('images/translate.jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('../../chapter8/images/translate.jpg', cv2.IMREAD_GRAYSCALE)
 if image is None: raise Exception("영상 파일을 읽기 에러")
 
 dst1 = translate(image, (30, 80))                  # x = 30, y = 80 으로 평행이동

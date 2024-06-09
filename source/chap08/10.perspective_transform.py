@@ -1,6 +1,6 @@
 import numpy as np, cv2
 
-image = cv2.imread('images/perspective.jpg', cv2.IMREAD_COLOR)
+image = cv2.imread('../../chapter8/images/perspective.jpg', cv2.IMREAD_COLOR)
 if image is None: raise Exception("영상 파일을 읽기 에러")
 
 pts1 = np.float32([(80, 40),  (315, 133), (75, 300), (335, 300)] )

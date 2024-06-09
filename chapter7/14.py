@@ -17,5 +17,5 @@ if image is None: raise Exception("오류")
 
 cv2.createTrackbar('th1', 'canny edge', 50, 255, onTrackbar)
 cv2.createTrackbar('th2', 'canny edge', 50, 255, onTrackbar)
-onTrackbar(50)
+
 cv2.waitKey(0)
