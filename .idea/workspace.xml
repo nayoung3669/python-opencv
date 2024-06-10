@@ -5,37 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21593912-87ff-4843-bf0d-38de1887bd4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter7/15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/13.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/14.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/01.scaling.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap08/01.scaling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/02.scaling_nearest.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap08/02.scaling_nearest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/03.scaling_bilinear.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap08/03.scaling_bilinear.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/04.translate.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap08/04.translate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/05.rotate.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap08/05.rotate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/06.rotate2.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap08/06.rotate2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/07.affine_transform.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap08/07.affine_transform.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/08.affine_combination.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap08/08.affine_combination.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/09.affine_event.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap08/09.affine_event.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/10.perspective_transform.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap08/10.perspective_transform.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/11.perspective_event.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/chap08/11.perspective_event.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/images/affine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/images/affine.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/images/affine1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/images/affine1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/images/affine2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/images/affine2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/images/affine_test1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/images/affine_test1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/images/interpolation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/images/interpolation.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/images/interpolation_test.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/images/interpolation_test.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/images/perspective.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/images/perspective.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/images/perspective2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/images/perspective2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/images/rotate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/images/rotate.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/images/rotate_test.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/images/rotate_test.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/images/scaling.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/images/scaling.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/images/translate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/images/translate.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/chap08/images/translate1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/images/translate1.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

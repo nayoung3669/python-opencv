@@ -13,7 +13,7 @@ def morphology(img, mask=None, mode=0):  # mode로 erode, dilate 합치기
             x1, x2 = j - xcenter, j + ycenter + 1
             roi = img[y1:y2, x1:x2]  # 마스크 영역
             temp = cv2.bitwise_and(roi, mask)
-            cnt = cv2.countNonZero(temp)  # and 연산의 결과 1인 갯수
+            cnt = cv2.countNonZero(temp)  # and 연산의 결햣과 1인 갯수
 
             if mode == cv2.MORPH_ERODE:
                 dst[i][j] = 255 if (cnt == mcnt) else 0  # 침식
